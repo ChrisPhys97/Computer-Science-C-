@@ -233,22 +233,3 @@ wsl --shutdown
 ```
 
 Οι παραπάνω εντολές εκτελούνται στο PowerShell των Windows και όχι μέσα στο Ubuntu.
-
-## 11. Μελλοντικές προσθήκες
-
-Το αποθετήριο μπορεί να επεκταθεί με επιπλέον οδηγίες και παραδείγματα σχετικά με:
-
-- Μεταγλώττιση προγραμμάτων με πολλαπλά αρχεία.
-- Δημιουργία και χρήση Makefiles.
-- Αποσφαλμάτωση προγραμμάτων με GDB.
-- Χρήση βιβλιοθηκών για επιστημονικούς υπολογισμούς.
-- Παράλληλο προγραμματισμό με OpenMP.
-- Αριθμητικές μεθόδους σε Fortran και C.
-
-## 12. Χρήσιμοι σύνδεσμοι
-
-- [Microsoft — Εγκατάσταση WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
-- [Microsoft — Χρήση VS Code με WSL](https://code.visualstudio.com/docs/remote/wsl)
-- [GNU Fortran](https://gcc.gnu.org/fortran/)
-- [GNU Compiler Collection](https://gcc.gnu.org/)
-- [Ubuntu](https://ubuntu.com/)
